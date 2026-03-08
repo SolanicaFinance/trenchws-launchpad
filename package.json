@@ -67,7 +67,7 @@
     "react-dom": "^19.0.0",
     "react-use": "^17.6.0",
     "recharts": "^3.1.0",
-    "solana": "file:@privy-io/react-auth/solana",
+    "solana": "link:@privy-io/react-auth/solana",
     "sonner": "^2.0.2",
     "superstruct": "^2.0.2",
     "tailwind-merge": "^3.2.0",
