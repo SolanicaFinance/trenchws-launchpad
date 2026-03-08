@@ -12,7 +12,7 @@
     "format:check": "prettier --check ."
   },
   "dependencies": {
-    "@bigmi/react": "^0.5.2",
+    "@bigmi/react": "^0.5.4",
     "@coral-xyz/anchor": "^0.31.1",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
